@@ -1,0 +1,36 @@
+Bài 
+4
+: 
+TỔNG HỢP MẠCH VÀ ĐÁNH GIÁ
+ 
+I.
+ Yêu cầu
+Chụp hình lại các kết quả đã thực hiện được theo yêu cầu 
+Giải thích kết quả đã chụp ở phần trên
+Không copy bài nhau. Nếu bị phát hiện sẽ bị 0 điểm
+Làm xong báo cáo và xuất ra file PDF để nộp vào hệ thống 
+Moodle
+Điểm cộng: 
+Làm thêm các mạch khác ngoài yêu cầu cơ bản của bài báo cáo
+.
+II. 
+Báo cáo
+Thực hiện tổng hợp mạch Counter 8 
+bít
+ (
+Trình bày các bước setup
+)
+Phân tích, đánh giá các kết quả report
+ của 
+mạch Counter 8 bít
+.
+ 
+Trình bày các bước thiết lập trên 
+tool Formality và kết quả thực hiện trên tool
+ 
+của mạch Counter 8 bít
+.
+Kết quả mô phỏng sau tổng hợp mạch
+ 
+của mạch Counter 8 bít
+.

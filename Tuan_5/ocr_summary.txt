@@ -1,0 +1,423 @@
+=== 1.png ===
+EB 19: wt Applications © BY Design Vision ... 5 ~ RealVNC Viewer Formality - To... |] [Release Highl... Digital_synop... | (i) [Terminal - sv... | [| Terminal - sv1... | [| Terminal - sv Terminal - sv1... 2 Design Vision - TopLevel.1 (counter_8bit) File Edit View Select Highlight List Hierarchy Design Attributes Schematic Timing Test Power AnalyzeRTL Window Help joa [2 + || BB) | | I[eounter_ abe +] SLLOzII [Cells (Hierarchical? dc_shell> set file_format verilog verilog dc_shell> analyze -format
+
+=== 10.png ===
+a ~ RealVNC Viewer - a x plications: 2 Design Visio...| [1 Formality -T... | Release Hig... | Gy RTL- File Ma... |) Terminal - [Bi Terminal - i terminal-s... | File Edit View Select Hi Design Vision - TopLevel.1 (and_gate] jhlight List Hierarchy Design Attributes Schematic Timing Test Power AnalyzeRTL Window Help Jen) QQQ0@Q0))* * |S RE RBBAA | BB ws Nero Hie gziiaa q ? oF & Hostname: capacitor Q Compile CPU Statistics Resource Sharing: Logic optimization 0.02 Mapping Optimization: 0.21 overall 
+
+=== 11.png ===
+192.168.0.15925 (capacitor25 (5v11) - RealVNC Viewer x _ a mierrin.. | CI NN 3620 [ev (L) on : Je Applications | By Design... | [@ Formal... | Releas... | [| Formal... | Releas... | j Digital... || Termin... | [i Termin... | [i] Termin... || Termin... | fl Termin... | Mj Termin... | fal [Termi... | [lj Termin... Formalty -TopLevelMain-1 ~o File Edit View Designs Run ECO Window Help ®& Bs RHI OOO/SHX@Q) A) 6GO|lseea Reference r:/WORK/and_gate Matching Completed Implementation |i:/WORK/and_gate 0.
+
+=== 12.png ===
+192.168.0.15925 (capacitor25 (5v11) - RealVNC Viewer File Edit View Designs Run ECO Window Help & kRi/OOolcualalaolsa we Applications : By Design... | [J Formal... | Releas... a Formal || Di Releas... Digital... | Termin... | Termin... |) Termin... | Termin... | Termin... | Bj Termin... || [Termi... | Termin... | [a] Termin. Formality - TopLevelMain.1 Reference r:/WORK/and_gate Implementation |i:/WORK/and_gate = 0. Guid. il V1. Ref. I 2. Impl. i 3. Setup I 4, Match I 5. Verify 1. Choose a librar
+
+=== 13.png ===
+192.168.0.15925 (capacitor25 (5v11) - RealVNC Viewer Je Applications | By Design... | [| Formal... | Releas... Gi Formal... | Releas... | fj Digital @temin.. i Termin... | Bl termi @ temin... i Termin... | i [Termi... Termin... Bi termin... | _ a x eee lle Edit View Designs Run ECO Window Help ® kRA|OOO|% #@/ Al 6 el) sa Formality - TopLevelMain.1 Bax Reference r:/WORK/and_gate Implementation |i:/WORK/and_gate Matching Completed 0. Guid. 1. Ref. A2. Impl. 3. Setup i 4, Match 5. Verify 1. Read De
+
+=== 14.png ===
+x _ a erin. | CIN NN 3622 [ev (L) on : 192.168.0.15925 (capacitor25 (5v11) - RealVNC Viewer Termin... Wi Termin... | [Termi. Bi Termin... |B Termi @ termin... we Applications BY Design... |G Formal... | Releas... | fl Formal... | Releas... | Bj Digital... |B Termin... | ff Termin... Formallty -WopLevelMaln-1 Bo B File Edit View Designs Run ECO Window Help ®& kRA|OOO|% #@/ Al 6 el) sa Reference r:/WORK/and_gate | atcing completed Matching Completed Implementation |i:/WORK/and_gate 0. Guid. V1. Re
+
+=== 15.png ===
+192.168.0.15925 (capacitor25 (5v11) - RealVNC Viewer Spi Applications © 8 Design... | [ Formal. Releas... TH Formal... | Releas... | fj Digital... | BM) Termin... | Termin... |B Termin... ] Ml Termin... ) Termin... | | Termin... | [Termi... [| Termin... |] Termin. _ a x eee iF] Formality - TopLevelMain.1. ile Edit View Designs Run ECO Window Help ®& kAl@©Qol/ealalegolsea Bax Reference r:/WORK/and_gate Implementation |i:/WORK/and_gate Matching Completed 0. Guid. I 1. Ref. i 2. Impl. if 3. Setup I
+
+=== 16.png ===
+| EY 192.168.0.1:5925 (capacitor:25 (sv11)) - RealVNC Viewer ‘we Applications : By Design... | [aj Formal. Ty Releas... | f Formal... | Releas... | ij Digital... | al Termin. [i termin... | Termin... [Rl Termin... || Termin... |) Termin. x _ a Bier. [mem [monn | SEMEN EEN 2622 [ev g) on File Edit View Designs Run ECO Window Help ®& RH OOCO|SRQl/ Al Ole B Formality - TopLevelMain.1 BSx Reference |r:/WORK/and_gate Implementation |i:/WORK/and_gate 0. Guid. V1. Ref. 2. Impl. Set Don't Verify Setup |
+
+=== 17.png ===
+192.168.0.15925 (capacitor25 (5v11) - RealVNC Viewer _ a x Dw Applications RY Design... |G Formal... | T Releas... | fl Formal... | Releas... fj Digital... | Termin... jl Termin... |) Termin... [| Termin... | Termin... | i Termin... | [Termi..._ | Termin... | Termin [| | | | 16:33 [EN |.) svia iF] Formality - TopLevelMain.1. lle Edit View Designs Run ECO Window Help & kRA| OOS HX @/ Al 6 eC) sa Reference r:/WORK/and_gate Implementation |i:/WORK/and_gate 0. Guid. I 1. Ref. I 2. Impl. 3. Setup if 
+
+=== 18.png ===
+chematic Edit
+
+=== 19.png ===
+ror... | Orele... | es = Term... | (al) Term ECO Window Help x w Go Help sv111/Desktop/THTKVMDT_K23/CLC3/CA2/MailyKhaiTrieu_23207136_ASIC_Design/Digital_Synopsys/Libiverilo DEVICES 32nm.v - sv11@capacitor: ~/Desktop/THTKVMDT_K23/CLC3/CA2/MaiLyKhaiTrieu_23207136_ASIC_Desigr v Terminal Tabs Help controlling such use and disclosure. lwarning-(DEBUG_DEP] Option will be deprecated The option ‘-debug_all' will be deprecated in a future release. Please use ‘-debug_acc+all -debug_region+cell+encrypt' in
+
+=== 2.36.png ===
+Hostname: capacitor Compile CPU Statistics Resource Sharing: 0.01 Logic optimizatio 0.03 Mapping Optimizatio 0.22 Overall Compile Tim 3.79 Overall Compile Wall Clock Time: 4.19 Design WNS: 6.00 TNS: 0.00 Number of Violating Paths: 0 Design (Hold) WNS: 0.00 TNS: 0.00 Number of Violating Paths: 1
+
+=== 2.png ===
+EB 19: we Applications BY Design Visio... 2.168.0. 680.15 )) ~ RealVNC Viewer Formality -T...| 7] Release Hig... | ij RTL- File Ma.. @ Terminal - s.. [i Terminal -s... | Terminal -s... [Bil Terminal -s... fl Terminal - s. 2) fil Design Vision - TopLevel.1 (counter_sbit) Edit View Select Highlight List Hierarchy Design Attributes Schematic Timing Test Power AnalyzeRTL Window Help Joa [2 + || BB) | | I[eounter_ abe +] & [Cells trierarcrical! ra ® @ Compiling source file ./and_gate.v a Error: ./and
+
+=== 20.png ===
+Hive... De RTL Terminal - sv11@capacitor: iter... |i te Biter... | iter... Ter... | fal Te a 1 Desktop/THTKVMDT_K23/CLC3/CA2/MaiLyKhaiTrieu_23207136_ASIC_Design/Digital_Synopsys/RTL timescale Ins/Ins module and_gate_tb; reg a; reg b; wire y; End_gate_uut ( -a(a), -b(b), yy) a initial begin smonitor (“Thoi gian = 6%t | a = %b, b = %b -> y = %b", $time, a, b, y); #10; sfinish; end endmodule
+
+=== 2a.1.png ===
+dce_shell> start_gui 4a dc_shell> set top_nodule cau2 cauz dc_shell> set_svf stop_module. svf 1 de_shell> define_design_lib work -path ./work 1 de_shell> Lappend search_path /home/sv7/Desktop/THTKVMDT_K23/CLC3/CA2/DuongThiQuynhNhi_23207090_CLC3_CA2/QuynhNhi_23207090_ASIC_Design/Digital_synopsys/Lib/db = /home/CAD/Synopsys/syn/0-2018.06-SPS-5/Libraries/syn /home/CAD/Synopsys/syn/0-2018.06-SP5-5/minpower/syn /home/CAD/Synopsys/syn/0-2018.06-SPS-5/dw/syn_ver de_shell> Lappend search_path /home/sv7/
+
+=== 2a.10.png ===
+Threshold voltage group cell usage: >> saed32cell_svt 100.00% Beginning Global Optimizations Numerical Synthesis (Phase 1) Numerical Synthesis (Phase 2) Global optimization (Phase 1) Global optimization (Phase 2) Global optimization (Phase 3) Global optimization (Phase 4) Global optimization (Phase 5) Global optimization (Phase 6) Global optimization (Phase 7) Global optimization (Phase 8) Global optimization (Phase 9) Global optimization (Phase 10) Global optimization (Phase 11) Global optimiza
+
+=== 2a.11.png ===
+Global Global Global Global Global Global Global Global Global Optimization Optimization Optimization Optimization Optimization Optimization Optimization Optimization Optimization (Phase (Phase (Phase (Phase (Phase (Phase (Phase (Phase (Phase 22) 23) 24) 25) 26) 27) 28) 29) 30) Threshold voltage group cell >> saed32cell_svt 100.00% usage: Beginning Isolate Ports Threshold voltage group cell usage: >> saed32cell_svt 10.00% Beginning Delay Optimization TOTAL ELAPSED WORST NEG SETUP DESIGN LEAKAGE 
+
+=== 2a.12.png ===
+0:00: ELAPSED TIME AREA 92. 92. 92. 92. 92. 92. 92. 92. 92. 92.3 92. 92. 92. 92. 92. 92. 92. 92. 92. 92. 92. 92. 92. 0:00:02 92. WORST NEG SLACK 00 00 00 00 00 00 00 00 00 TOTAL SETUP cost DESIGN RULE COST oe. 9. e. 9. e. 9. oe. 9. o. ° ° ° ° ° ° ° ° ° ENDPOINT 10533614.0000 10533614 .0000 19533614.0000 10533614.0000 10533614.0000 105336140000 10533614.0000 105336140000 10533614.0000 105336140000 10533614.0000 105336140000 10533614.0000 105336140000 10533614 .0000 LEAKAGE POWER 10533614.0000 110
+
+=== 2a.13.png ===
+Loading db file ‘/home/sv7/Desktop/THTKVMOT_K23/CLC3/CA2/DuongThiQuynhNhi_23207090_CLC3_CA2/QuynhNhi_23207090_ASIC_Design/Digital_Synopsys/Lib/db/saed32rvt_tt1p0Sv25c.db* Note: symbol # after min delay cost means estimated hold TNS across all active scenarios optimization Complete Information: State dependent leakage is now switched fron off to on. Information: Propagating switching activity (low effort zero delay simulation). (PWR-6) 1 Current design is *cau2". de_shell> set_svf -off 1
+
+=== 2a.14.png ===
+de_shell> report_area -hierarchy Report : area Design : Cau2 Version: 0-2018.06-SP5-5 Date : Sat Jul 11 14:38:11 2026 Information: Updating design information... (UD-85) Library(s) Used: saed32rvt_ttiposv25c (File: /hone/sv7/Desktop/THTKVMDT_K23/CLC3/CA2/DuongThiuynhNhi_23207090_CLC3_CA2/QuynhNhi_23207090_ASIC_Design/Digital_synopsys/Lib/db/saed32rvt_tt1posv25c.db) Number of ports: 10 Number of nets: 30 Number of cells: 26 Number of combinational cells: 1s Number of sequential cells: 8 Number of
+
+=== 2a.15.png ===
+Total cell are: Total area: Hierarchical area distribution Hierarchical cell 92.254273 9.690257 Global cell area Local cell area Absolute Percent Combi- _Noncombi- Black- Total Total national national boxes Design 92.2543 100.0 35.3260 35.3260 56.9283 56.9283, 0.0000 cau2
+
+=== 2a.16.png ===
+dc_shell> report_timing -max_paths 100 -delay_type min Report : timing -path full -delay min -max_paths 100 Design : Cau2 Version: 0-2018.06-SP5-5 Date : Sat Jul 11 14:38:45 2026 Operating Conditions: ttiposv25¢ Library: saed32rvt_tt1p0sv25e Wire Load Model Mode: enclosed Startpoint: state_reg[7] (rising edge-triggered flip-flop clocked by clk) Endpoint: state[7] (output port clocked by clk) Path Group: REGOUT Path Type: min Des/Clust/Port Wire Load Model Library cauz Forga saed32rvt_ttiposv2sc 
+
+=== 2a.17.png ===
+clock network delay (ideal) 0.00 0.00 state_regl7]/CLK (DFFARX1_RVT) 0.00 0.00 r state_reg{7]/Q (DFFARX1_RVT) 0.12 0.12 F state[7] (out) 0.03 0.15 f data arrival time 0.15 clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 clock uncertainty 0.10 0.10 output external delay -75.00 74.90 data required time -74.90 data required time -74.90 data arrival time -0.15 slack (MET) 75.05
+
+=== 2a.18.png ===
+Startpoint: state_reg[6] (rising edge-triggered flip-flop clocked by clk) Endpoint: state[6] (output port clocked by clk) Path Group: REGOUT Path Type: min Des/Clust/Port Wire Load Model Library cauz Forga saed32rvt_ttiposvse Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_reg{6]/CLK (DFFARX1_RVT) 0.00 0.00 r state_reg(6]/Q (DFFARXI_RVT) 0.12 0.12 F state[6] (out) 0.03 0.15 f data arrival time 0.15 clock clk (rise edge) 0.00 0.00 clock network delay (i
+
+=== 2a.19.png ===
+Startpoant: state_reg[5] (rising edge-triggered flip-flop clocked by clk) Endpoint: state[5] (output port clocked by clk) Path Group: REGOUT Path Type: min Des/Clust/Port Wire Load Model Library cauz Forga saed32rvt_ttiposvse Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_reg{5]/CLK (DFFARX1_RVT) 0.00 0.00 r state_reg(5]/Q (DFFARXI_RVT) 0.12 0.12 F state[S] (out) 0.03 0.15 f data arrival time 0.15 clock clk (rise edge) 0.00 0.00 clock network delay (i
+
+=== 2a.2.png ===
+dc_shell> analyze -format sfile_format {Cau2.v} Running PRESTO HOLC Compiling source file /home/sv7/Desktop/THTKVMDT_K23/CLC3/CA2/DuongThiQuynhNhi_23207090_CLC3_CA2/QuynhNhi_23207090_ASIC_Design/RTL/Cau2.v Presto compilation completed successfully. Loading db file '/home/sv7/Desktop/THTKVMOT_K23/CLC3/CA2/DuongThiQuynhNhi_23207090_CLC3_CA2/QuynhNhi_23207090_ASIC_Design/Digital_Synopsys/Lib/db/saed32rvt_tt1p05v25c.db* 1
+
+=== 2a.20.png ===
+Startpoint: state_reg[4] (rising edge-triggered flip-flop clocked by clk) Endpoint: state[4] (output port clocked by clk) Path Group: REGOUT Path Type: min Des/Clust/Port Wire Load Model Library cau Forga saed32rvt_tt1posv25e Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_regl4]/CLK (DFFARX1_RVT) 0.00 0.00 r state_reg(4]/Q (DFFARXI_RVT) 0.12 0.12 F statel4] (out) 0.03 0.15 f data arrival time 0.15 clock clk (rise edge) 0.00 0.00 clock network delay (i
+
+=== 2a.21.png ===
+Startpoint: state_reglo] (rising edge-triggered flip-flop clocked by clk) Endpoint: state[0] (output port clocked by clk) Path Group: REGOUT Path Type: min Des/Clust/Port Wire Load Model Library cau Forga saed32rvt_tt1posv25e Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_regl0]/CLK (DFFARX1_RVT) 0.00 0.00 r state_regl0]/Q (DFFARXI_RVT) 0.13 0.13 f state[o] (out) 0.04 0.16 f data arrival time 0.16 clock clk (rise edge) 0.00 0.00 clock network delay (i
+
+=== 2a.22.png ===
+Startpoant: state_reg[1] (rising edge-triggered flip-flop clocked by clk) Endpoint: state[1] (output port clocked by clk) Path Group: REGOUT Path Type: min Des/Clust/Port Wire Load Model Library cau Forga saed32rvt_tt1posv25e Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_regl1]/CLK (DFFARX1_RVT) 0.00 0.00 r state_reg{1]/Q (DFFARX_RVT) 0.13 0.13 f state[1] (out) 0.04 0.16 f data arrival time 0.16 clock clk (rise edge) 0.00 0.00 clock network delay (id
+
+=== 2a.23.1.png ===
+Startpoint: state_reg[0] (rising edge-triggered flip-flop clocked by clk) Endpoint: state_reglo] (rising edge-triggered flip-flop clocked by clk) Path Group: clk Path Type: min Des/Clust/Port Wire Load Model Library cau2 Forga saed32rvt_tt1pesv25c Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_regl0]/CLK (DFFARX1_RVT) 0.00 0.00 r state_regl0]/QN (OFFARX_RVT) 0.08 0.08 f state_regl0]/D (DFFARX1_RVT) 0.01 0.09 F data arrival time 0.09 clock clk (rise ed
+
+=== 2a.23.2.png ===
+data required time 0.10 data arrival time -0.09 slack (VIOLATED: increase significant digits) 0.00
+
+=== 2a.24.1.png ===
+Startpoint: state_reg[0] (rising edge-triggered flip-flop clocked by clk) Endpoint: state_reg(1] (rising edge-triggered flip-flop clocked by clk) Path Group: clk Path Type: min Des/Clust/Port Wire Load Model Library cau Forga saed32rvt_tt1posv25e Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_regl0]/CLK (DFFARX1_RVT) 0.00 0.00 r state_regl0]/QN (DFFARX1_RVT) 0.08 0.08 f u26/¥ (A022x1_RVT) 0.04 0.12 f state_regl1]/D (DFFARX1_RVT) 0.01 0.14 f data arriv
+
+=== 2a.24.2.png ===
+data required time 9.10 data arrival time slack (MET)
+
+=== 2a.25.1.png ===
+Startpoint: state_reg[4] (rising edge-triggered flip-flop clocked by clk) Endpoint: state_regl4] (rising edge-triggered flip-flop clocked by clk) Path Group: clk Path Type: min Des/Clust/Port Wire Load Model Library cau2 Forga saed32rvt_tt1pesv25c Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_reg(4]/CLK (DFFARX1_RVT) 0.00 0.00 r state_regl4]/Q (OFFARX_RVT) 0.12 0.12 f u2i/¥ (0A21x1_RVT) 0.05, o.17 f state_reg[4]/D (DFFARXI_RVT) 0.01 0.18 f data arriv
+
+=== 2a.25.2.png ===
+data required time 0.10 data arrival time -0.18 slack (MET) 0.08
+
+=== 2a.26.1.png ===
+Startpoint: state_reg[0] (rising edge-triggered flip-flop clocked by clk) Endpoint: state_regl2] (rising edge-triggered flip-flop clocked by clk) Path Group: clk Path Type: min Des/Clust/Port Wire Load Model Library cau2 Forga saed32rvt_tt1pesv25c Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_regl0]/CLK (DFFARX1_RVT) 0.00 0.00 r state_regl0]/Q (OFFARXI_RVT) 0.13 0.13 f 25/¥ (0A221x1_RVT) 0.06 0.19 f state_regl2]/D (DFFARXI_RVT) 0.01 0.20 f data arriv
+
+=== 2a.26.2.png ===
+cate requires time 6.16 data required time data arrival time slack (MET) 0.10 -0.20 0.10
+
+=== 2a.27.1.png ===
+dc_shell> report_timing -max_paths 100 -delay_type max Report : timing -path full -delay max -max_paths 100 Design : Cau2 Version: 0-2018.06-SP5-5 Date: Sat Jul 11 14:46:39 2026 Operating Conditions: ttiposv25¢ Library: saed32rvt_tt1p0sv25e Wire Load Model Mode: enclosed Startpoint: state_reg[o] (rising edge-triggered flip-flop clocked by clk) Endpoint: state[0] (output port clocked by clk) Path Group: REGOUT Path Type: max Des/Clust/Port Wire Load Model Library cauz Forga saed32rvt_ttiposv2sc P
+
+=== 2a.27.2.png ===
+state_reg[0]/CLK (DFFARX1_RVT) state_regl0]/Q (DFFARX1_RVT) state[o] (out) data arrival time clock clk (rise edge) clock network delay (ideal) clock uncertainty output external delay data required time data required time data arrival time slack (MET) 0.00 0.13 0.04 250.00 0.00 -0.25 -75.00 0.00 r 0.13 6 0.17 r 0.17 250.00 250.00 249.75 174.75 174.75 174.75 -0.17 174.58
+
+=== 2a.28.png ===
+Startpoant: state_reg[1] (rising edge-triggered flip-flop clocked by clk) Endpoint: state[1] (output port clocked by clk) Path Group: REGOUT Path Type: max Des/Clust/Port Wire Load Model Library cau Forga saed32rvt_tt1posv25e Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_regl1]/CLK (DFFARX1_RVT) 0.00 0.00 r state_reg{1]/Q (DFFARX_RVT) 0.13 0.13 6 state[1] (out) 0.04 0.17 r data arrival time 0.17 clock clk (rise edge) 250.00 250.00 clock network delay
+
+=== 2a.29.png ===
+Startpoint: state_reg[5] (rising edge-triggered flip-flop clocked by clk) Endpoint: state[5] (output port clocked by clk) Path Group: REGOUT Path Type: max Des/Clust/Port Wire Load Model Library cauz Forga saed32rvt_ttiposvse Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_reg{5]/CLK (DFFARX1_RVT) 0.00 0.00 r state_reg(5]/Q (DFFARXI_RVT) 0.12 e126 state[S] (out) 0.03 0.16 r data arrival time 0.16 clock clk (rise edge) 250.00 250.00 clock network delay 
+
+=== 2a.3.png ===
+dc_shell> elaborate -lib work Cau2 Loading db file '/home/CAD/Synopsys/syn/0-2018.06-SP5-5/Libraries/syn/gtech.db* Loading db file ‘/home/CAD/Synopsys/syn/0-2018.06-SPS-5/Libraries/syn/standard.sldb* Loading link Library ‘saed32rvt_tt1p05v25c' Loading link library ‘gtech* Running PRESTO HDLC Inferred memory devices in process in routine Cau2 line 8 in file * shome/sv7/Desktop/THTKVMDT_K23/CLC3/CA2/DuongThiquynhNhi_23207090_CLC3_CA2/QuynhNhi_23207090_ASIC_Design/RTL/Cau2.v" I Register Name | Type
+
+=== 2a.30.png ===
+Startpoant: state_regl7] (rising edge-triggered flip-flop clocked by clk) Endpoint: state[7] (output port clocked by clk) Path Group: REGOUT Path Type: max Des/Clust/Port Wire Load Model Library cau Forga saed32rvt_tt1posv25e Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_regl7]/CLK (DFFARX1_RVT) 0.00 0.00 r state_reg{7]/Q (DFFARXI_RVT) 0.12 e126 state[7] (out) 0.03 0.15 r data arrival time 0.15 clock clk (rise edge) 250.00 250.00 clock network delay 
+
+=== 2a.31.1.png ===
+state_reg[5]/CLK (DFFARX1_RVT) 9.00 © 249.75 F library setup time 0.02 249.73 data required time 249.73 data required time 249.73 data arrival time -0.45 slack (MET) 249.28
+
+=== 2a.31.png ===
+Startpoant: state_regl2] (rising edge-triggered flip-flop clocked by clk) Endpoint: state_reg(5] (rising edge-triggered flip-flop clocked by clk) Path Group: clk Path Type: max Des/Clust/Port Wire Load Model Library cau2 Forga saed32rvt_tt1pesv25c Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_regl2]/CLK (DFFARX1_RVT) 0.00 0.00 r state_regl2]/Q (DFFARXI_RVT) 0.13 0.13 r u12/¥ (NAND4X0_RVT) 0.07 0.20 f u13/Y (INVXO_RVT) 0.05 0.25 r u14/Y (WAND2x_RVT) 0
+
+=== 2a.32.1.png ===
+Startpoint: state_reglo] (rising edge-triggered flip-flop clocked by clk) Endpoint: state_reglo] (rising edge-triggered flip-flop clocked by clk) Path Group: clk Path Type: max Des/Clust/Port Wire Load Model Library cau2 Forga saed32rvt_tt1posv25¢ Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 state_regl0]/CLK (DFFARX1_RVT) 0.00 0.00 r
+
+=== 2a.32.2.png ===
+state_regl0]/CLK (DFFARX1_RVT) state_regl0]/QN (DFFARX1_RVT) state_reg[0]/D (DFFARXI_RVT) data arrival time clock clk (rise edge) clock network delay (ideal) clock uncertainty state_reg(0]/CLK (DFFARX1_RVT) Library setup time data required time data required time data arrival time slack (MET) 250. -00 28 -00 03 -00 -09 02 00 250. 250. 249. 249, 249. 249, 249 -0 249 00 Fr .09 Fr ae ee 00 00 78 75 72 72 72 ae -61
+
+=== 2a.33.png ===
+de_shell> report_gor Report : gor Design : Cau2 Version: 0-2018.06-SPS-5 Date: Sat Jul 11 14:46:57 2026 Timing Path Group *REGOUT' Levels of Logic 0.00 Critical Path Length: 0.17 Critical Path Slack: 174.58 Critical Path Clk Period: 250.00 Total Negative Slack 0.00 No. of Violating Path 0.00 Worst Hold Violation: 0.00 Total Hold violatio 0.00 No. of Hold Violations: 0.00 Timing Path Group ‘clk* Levels of Logic: 9.00 Critical Path Length: 0.60 Critical path Slack: 249.13 Critical Path Clk Period:
+
+=== 2a.34.png ===
+Total Negative Slack: 0.00 No. of Violating Paths: 0.00 Worst Hold Violation: 0.00 Total Hold violation: 0.00 No. of Hold Violation 0.00 Timing Path Group ‘clk* Levels of Logic 9.00 Critical path Length: 0.60 Critical Path Slac 249.13 Critical Path Clk Period: 250.00 Total Negative Slack: 0.00 No. of Violating Paths: 0.00 Worst Hold Violation: -0.00 Total Hold violation: -0.00 No. of Hold violation 1.00 cell Count Hierarchical Cell Count: ° Hierarchical Port Count: e Leaf Cell count: 26 Buf/Inv 
+
+=== 2a.35.png ===
+CT Buf/Inv Cell Count: ° Combinational Cell Count: 18 Sequential Cell Count: 8 Macro Count cy) Area Combinational Area: 35.326016 Noncombinational Area: 56.928257 Buf/Inv Area: 7.878464 Total Buffer Area: 0.00 Total Inverter Area: 7.88 Macro/Black Box Area: 0.000000 Net Area: 7.435984 cell Ares 92.254273 Design Area: 9.690257 Design Rules Total Number of Nets: 30 Nets With Violations: cy) Max Trans Violation: ° Max Cap Violations: cy)
+
+=== 2a.36.png ===
+G@c_shett> report constraint -all_violators Report : constraint U_violators Design : Cau2 Version: 0-2018.06-SP5-5 Date : Sat Jul 11 14:49:45 2026 min_delay/hold (‘clk group) Required Actual Endpoint Path Delay Path Delay Slack state_regl0l/D 0.10 0.09 f 0.00 (VIOLATED: increase significant digits) max_leakage_power Required Actual. Design Leakage Power Leakage Power Slack cau2 0.00 11423400.00 —_ -11423400.00 (VIOLATED)
+
+=== 2a.37.png ===
+de_shell> set_fix_hold [all_clocks]} 1 de_shell> compile_ultra -incremental Warning: DesignWare synthetic Library dw foundation.sldb is added to the synthetic library in the current conmand. (UISN-40) Information: Performing power optimization. (PWR-850 Alib files are up-to-date. Loaded alib file *./alib-52/saed32rvt_tt1posv25c.db.alib’ Information: State dependent leakage is now switched fron on to off. Beginning Pass 1 Mapping (Incremental) Updating timing information Information: Updating des
+
+=== 2a.38.png ===
+0 0 ° 0 Threshold voltage group cell usage: >> saed32cell_svt 100.00% Beginning Mapping Optimizations (Ultra High effort) Beginning Incremental Inplementation Selection Beginning Delay Optimization Phase TOTAL ELAPSED WORST NEG SETUP DESIGN TIME AREA SLACK COST_-—RULE COST 92.3 0.00 0.0 0.0 92.3 0.00 0.0 0.0 92.3 0.00 0.0 0.0 92.3 0.00 0.0 0.0 92.3 0.00 0.0 0.0 92.3 0.00 0.0 0.0 92.3 0.00 0.0 0.0 Threshold voltage group cell usage: >> saed32cell_svt 100.00% (Incremental) ENDPOINT 10533614. 10533
+
+=== 2a.39.png ===
+Beginning Delay Optimization 92. 92. 92. 92. 92. 9s. 00 00 00 00 00 00 Beginning Design Rule Fixing ELAPSED TIME AREA 0. 0. 0. °. 0. 6. 0. 6. 0. 6. 0. 6. WORST NEG SLACK (min_path) TOTAL SETUP cost 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 DESIGN RULE COST ENDPOINT 19533614.0000 0.00 10533614.0000 0.00 10533614.0000 0.00 105336140000 0.00 10533614.0000 0.00 10190408 .0000 0.00 LEAKAGE MIN DELAY POWER 19190408.0000 10190408 0000 19190408.0000 10190408 0000 19190408.0000 10190408 0000 191904
+
+=== 2a.4.png ===
+Gc_shell> link Linking design ‘Cau2" Using the following designs and Librarie: cau2 /home/sv7/Desktop/THTKVMDT_K23/CLC3/CA2/DuongThiQuynhNhi_23207090_CLC3_CA2/QuynhNhi_23207090_ASIC_Design/Digital_synopsys/syn/Cau2.db saed32rvt_tt1p05v25c (Library) /home/sv7/Desktop/THTKVMDT_K23/CLC3/CA2/DuongThiQuynhWhi_23207090_CLC3_CA2/QuynhNhi_23207090_ASIC_Design/Digital_Synopsys/Lib/db/saed32rvt_tt1p05v25c.db 1 de_shell> check_design check_design summary: Version: 0-2018.06-SP5-5 vate: Sat Jul 11 14:33:18 
+
+=== 2a.40.png ===
+TOTAL ELAPSED WORST NEG SETUP DESIGN LEAKAGE MIN DELAY TIME AREA SLACK COST_—RULE COST ENDPOINT POWER cost 0:00:01 105.4 0.00 0.0 0.0 10237801.0000 0.00 0:00:01 105.4 0.00 0.0 0.0 10237801.0000 0.00 0:00:01 102.7 0.00 0.0 0.0 10190498.0000 —-0.00 0:00:01 102.7 0.00 0.0 0.0 19190408.0000 0.00 Loading db file ‘/hone/sv7/Desktop/THTKVMOT_K23/CLC3/CA2/DuongThiQuynhNhi_23267890_CLC3_CA2/QuynhNhi_23267090_ASIC_Design/Digital_synopsys/Lib/db/saed32rvt_tt1posv25c.db* Note: Symbol # after min delay cost 
+
+=== 2a.41.png ===
+de_shell> report_gor Information: Updating design information... Report : gor Design : Cau2 Version: 0-2018.06-SPS-5 Date: Sat Jul 11 14: 58 2026 ‘Timing Path Group *REGOUT* Levels of Logic: Critical path Length: 6. Critical Path Slack: 174 Critical Path Clk Period: 250. Total Negative Slack: 8. No. of Violating Paths ° Worst Hold Violation: ° Total Hold Violation: ° No. of Hold Violations: ° 0. 00 18 “37 00 09 00 00 00 00 uID-85,
+
+=== 2a.42.png ===
+Cell Count Hierarchical Cell Count: ° Hierarchical Port Coun ° Leaf Cell count: 26 Buf/Inv Cell Coun 6 Buf Cell Count: ° Inv Cell Count: 6 CT Buf/Inv Cell Count: ° Combinational Cell Count: 18 Sequential Cell Count: 8 Macro Count: ° Combinational Area: 35.326016 Noncombinational Area: $9.977984 Buf/Inv Area: 7.878464 Total Buffer Area: 0.00 Total Inverter Area 7.88 Macro/Black Box Area: 0.000000 Net Are: 7.435984 cell Area: 95.304000 Design Area: 102.739984
+
+=== 2a.43.png ===
+Hostname: capacitor Compile CPU Statistics Resource Sharing 0.00 Logic optimization: 0.00 Mapping Optinizatior 0.17 Overall Compile Time: 1.66 Overall Compile Wall Clock Time: 1.98 Design WNS: 0.00 TNS: 0.00 Nunber of Violating Paths: 0 Design (Hold) WNS: 0.00 TNS: 0.00 Number of Violating Paths: 1
+
+=== 2a.44.png ===
+dc_shell> set verilogout_equation false false de_shell> write_file -format verilog -hierarchy -output ./output/design_mapped.v Writing verilog file ‘/home/sv7/Desktop/THTKVMOT_K23/CLC3/CA2/DuongThiQuynhNhi_23267090_CLC3_CA2/QuynhNhi_23207090_ASIC_Design/Digital_synopsys/syn/output/design_mapped.v". 1 de_shell> write file -format ddc -hierarchy -output ./output/design_mapped.dde Writing ddc file *./output/design_mapped.ddc' 1 de_shell> write_sde -nosplit ../cons/icc2.sde 1 de_shell> write_sdf ./o
+
+=== 2a.5.png ===
+dc_shell> source -echo de.sde # Constraints # 1. Master Clock Definitions * # # # # #3 # # # * # 2. Clock Uncertainties - set input/output delay on ports 4. Driving cells 5. Output load jules iia isieiiaiai iia intel iia icieiil steneuauneeesessescsneeusesesseseecenaneueeseconcscaags #### Section 1 : Clock Definition ### steneueuseneeneeceeeneueuseneenecuceuenuensepeooececcgegs # 1. Master Clock Definitions #2. Clock Uncertainties # 3. Clock Transitions # clk frequency = 4mHz set CLK_NAME clk se
+
+=== 2a.6.png ===
+set_clock_transition -rise $CLK_TRA [get_clocks $CLK_NAME] #1 ce ce ee setenhendeneeteeteenennenienianaedantentennannaneananiaey #### Section 2 : set input/output delay on ports #### sttenhendenteuesteenententoneenaenagtentennsneaneananiaes aHHRHRRH HEHE: EEE HHI Cd set in_delay [expr 0.3*SCLK_PER] set out_delay [expr 0.3*SCLK_PER] #Constrain Input Paths #set_input_delay $in_delay -clock $CLK_NAME [remove_from_collection [all_inputs] [get_ports {clk r}1] #Constrain Output Paths set_output_delay 
+
+=== 2a.7.png ===
+ve eree rwwrewe fateieds feleieds teiatatetall #set_min_Library saed32rvt_ss0p75vi25c.db -min_version saed32rvt_fflpl6vn40c.db ae08 Seas ete ee renee eneeee SULELELELELODEDEULULURUSUDEROODESULELELULED ERED DEEEEE RED #### Section 7 : wireload Model #### LELEEELEEREE EERE EEE EEEEEEEREEE EEE EE EEEEEEEEEEEE EERE SESERERUREHEREEEESEAURERUROEEEEDEESERERURUEUEEEEDEESERERAAAREREEEEEESEREREAEERETEEE set auto_wire_load_selection area_reselect set_wire_load_node enclosed set_wire_load_selection_group pr
+
+=== 2a.8.png ===
+dc_shell> compile_ultra -no_autoungroup Loading db file ‘/home/CAD/Synopsys/syn/0-2018.06-SPS-5/Libraries/syn/dw_foundation.sldb* Warning: DesignWare synthetic library dw_foundation.sldb is added to the synthetic library in the current command. (UISN-40) Information: Performing power optimization. (PWR-850 Alib files are up-to-date. Information: Evaluating DesignWare library utilization. (uIsN-27 | Basic DW Building Blocks | 0-2018.06-pwes_201806.5| = * = | | Licensed DW Building Blocks | 0-2018
+
+=== 2a.9.png ===
+Updating timing information Updating design information... Information: Information: Information: Information: Information: Information: Information: Information: The The The The The The The Library cell Library cell Library cell library cell Library cell library cell *pMT3_RVT" *pMT2_RVT" *pMTA_RVT? 'NMT3_RVT" “NMT2_RVT* *NMTL_RVT? in in in in target Library(s) contains Threshold voltage group cell usage: >> saedazcell_svt 100.008 Beginning Mapping Optimizations Information: Added key List ‘Des
+
+=== 2b-1.2.png ===
+BVT (AND2 rT (AND2Xe Qn’ SDFFX1_RVT
+
+=== 2b-1.3.png ===
+[EMPTY]
+
+=== 2b-cau1.1.png ===
+$0 [010 52 (110 52 [1] 0 54 [0] 0 56 [1] 0 56 [1] 0 58 [0] 0 60 [1]0 60 (10 62 [oo eto 64 [10 66 [0] 0 68 [1] 0 68 [10 70 [0] 0 72 [110 72(10 74 [010 76 (10 76 [10 78 [0] 0 80 [1] 0 80 [1]0 82 [0] 0 84 [10 84 (10 86 [0] 0 88 (10 88 [1]0 90 fo] 0 92 [1] 0 92 (110 94 [0] 0 96 [110 96 (110 98 fo] 0 100 (1) 00 [1] 102 [0] 104 [1] 104 (2) 106 [0] 108 (1) 108 [1] q=10000000 ‘oo00000 ‘1000000 1000000 ‘1000000 q=11100000 ‘1100000 1100000 =11110000 1110000 q=11110000 111000 1111000 q=11111000 1111100 111
+
+=== 2b-cau1.png ===
+1109909 REF jxoo000, A 0000 a jen000 rou0 jsoon0 jpoo0a goog
+
+=== 2b-cqau1.png ===
+Toe 20] 0 ato sti sai 6 (0) 1 say. 10 [0] 0 atu 12 (10 14 fo] 0 16 [1] 0 16 [1] 0 18 [0] 0 20 [1] 0 20 [1] 0 22 [0] 0 2a [10 2a [1] 0 26 [0] 0 28 (10 29 [1] 0 30 [0] 0 22 [10 32 [1]0 34 [0] 0 36 [1] 0 36 [1] 0 38 [0] 0 40 (J 0 40 (110 42 (0]0 44 (110 44 (0 46 [0] 0 48 (0 48 (1) 0 50 [0] 0 52 [1] 0 52 [110 54 [0] 0 56 [1] 0 56 [1] 0 58 [0] 0 60 [10 60 [1] 0 q=00000000 q=00000000 q=00000000 q=00000000 q=00000000 q=10000000 q=10000000 q=10000000 q=11000000 q=11000000 1000000 q=11100000 1100000 q=11
+
+=== 2b_1.png ===
+Formality (setup)> read verilog -container r -Libname WORK -05 { /home/sv7/Desktop/THTKVMDT_K23/CLC3/CA2/DuongThiQuynhNhi_ 23207090 CLC3_CA2/QuynhNhi_23207690 ASIC Design/RTL/Cau2.v } Loading verilog file ‘/home/sv7/Desktop/THTKVMDT_K23/CLC3/CA2/DuongThiQuynhNhi_ 23207090 CLC3_CA2/QuynhNhi_23207090 ASIC Design/RTL/Cau2.v" Current container set to 'r' 1 Formality (setup)> set_top r:/wORK/Cau2 Setting top design to 'r:/WORK/Cau2" Status: Elaborating design Cau2... Status: Implementing inferred ope
+
+=== 2b_2.png ===
+Formality (setup)> set_constant -type port r:/WORK/Cau2/clear 0 Set 'r:/WORK/Cau2/clear* to constant 0 1 Formality (setup)> match Reference design is 'r:/WORK/Cau2' Implementation design is 'i:/WORK/Cau2' Status: Checking designs... Status: Building verification models... Status: Matching... seadesteseeneseeeremeecencoaaaaees Matching Results HeterKseetassaseeseseeeeeneeenn 8 Compare points matched by name © Compare points matched by signature analysis © Compare points matched by topology 2 Matc
+
+=== 2b_3.png ===
+/WORK/Cau2 1/WORK/Cau2 Reference design Inplementation design: 8 Passing compare points Matched Compare Points BBPin Loop BBNet_ —Cut_—«Ss Port «=—sFF_—s LAT. TOTAL, Passing (equivalent) ° ° ° ° 8 ° ° 8 Failing (not equivalent) ° ° ° ° ° ° ° ° Not Compared Constant reg 8 ° 8 1
+
+=== 2b_4_wave.png ===
+Uc 27:0] 1. state[7] m. sate[6] m. sate[5] sate[3] = sate[2] ” sate[1] 1” sate[0]
+
+=== 2b_matched.png ===
+Reference |r:/WORK/Cau2 Matching Completed Implementation |i:/WORK/Cau2 0. Guid. V1. Ref. 2. Impl. 3. Setup 4, Match 5. Verify 6. Debug Compare Rule Setup | User Match Setup Matched Points Unmatched Points Summary Loops Enter filte Eye Search Value ¥ Replace Val Type Design Set File Remove Information Help Matching completed. There are 26 matched and 0 unmatched compare points. v es | Set ‘r:/WoRK/Cau2/clear* to constant 0 a 1 Formality (setup)> match Reference design is 'r:/WORK/Cau2' Implement
+
+=== 2b_schematic.png ===
+chematic Edit ECO wins " ae aa & pa : ste gt stato drvers , i fe Lg an sen An we rm uk fio oo ‘ni Sin sunt fn el 61 sum nN a su Taha Q She ama [| 3 suo me 2 i a 01 n i2Londs *) 2 2 2 2 eT Lion
+
+=== 2b_verifysuccess.png ===
+Reference |r:/WORK/Cau2 Veri Implementation |i:/WORK/Cau2 ation Succeeded 0. Guid. V1. Ref 2. Impl. 3. Setup 4, Match 5. Verify 6. Debug t Don't Verify Setup | Set Verify Setup | Failing Points | Aborted Points Unverified Points Loops Enter filter expres Yyie Object Name Type Information |) 51 Verification succeeded! Qverify | |Verify Selected Point| [Get Loop Data v x Status: Verifying... SHosoonennenaocoaconnenneaacceeee: Verification Results Oost Hea conrenremaaaaae Verification SUCCEEDED Ref
+
+=== 3.png ===
+~ RealVNC Viewer - a x Jw Applications: BY Design Visio... | [| Formality - T... | = Release Hig... | Gj RTL- File Ma... |) Terminal - [Bi Terminal - i terminal-s... | Design Vision - TopLevel.1 and gatel J* * |S RRB BRR BB ws |e Tiegziiaa Current design is ‘counter_abit'. de_shell> current_design stop_module Error: Can't find design ‘and_gate’. (ur0-109) Current design is ‘counter_sbit' {counter_sbit} dc_shell> elaborate -lib work and_gate Error: Cannot find the design ‘and_gate’ in the Library
+
+=== 4.png ===
+dat Applications ~ RealVNC Viewer EY Design Visio...| [3] Formality - Ta. | Release Hig... a Bi terminal - s... | fg Terminal - BH Terminal - Design Vision - TopLevel.1 (and_gate] El BRS SSS |eew| Threshold voltage group cell usage: >> saed32cell_svt 100.00% Beginning Global optimizations Numerical Synthesis Numerical Synthesis Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global opt
+
+=== 5.png ===
+VNC Viewer Jw Applications: BY Design Visio... | [| Formality - T... | = Release Hig... | Gj RTL- File Ma... |) Terminal - - ag x [Bi Terminal - i terminal-s... | File Edit View Select Hi jhlight List Hierarchy Design Attributes Schematic Timing Test Power AnalyzeRTL Window Help Design Vision - TopLevel.1 (and_gate] Ica Siclaaasaull ++ |S RB8888 |eeg| SALO=|I Threshold voltage group cell usage: >> saed32cell_svt 100.008 Beginning WLM Backend Optimization 0: 00 99 00 00 09 09 09 00 -09 00 00 -00 
+
+=== 6.png ===
+- RealVNC Viewer _ o x we Applications: Sy Design Visio... | [ Formality -T... | = Release Hig... | Gj RTL- File Ma... | lj Terminal - (i Terminal - Brerminal-s... a Design Vision - TopLevel.1 (and_gatel File Edit View Select Highlight List Hierarchy Design Attributes Schematic Timing Test Power AnalyzeRTL Window Help Jen) QQQ0@Q0))* * |S RE RBBAA | BB ws Nero Hie gziiaa B ’ oF @ |) Total cell area: 2.033152 - Total area: 2.281403 cy ” Hierarchical area distribution Global cell area Local cell a
+
+=== 7.png ===
+- RealVNC Viewer _ o x we Applications: Sy Design Visio... | [ Formality -T... | = Release Hig... | Gj RTL- File Ma... | lj Terminal - (i Terminal-s... i Terminal-s... Design Vision - TopLevel.1 (and_gatel J* * |S RRB BRR BB ws |e Tiegziiaa B 2 ® @ Design : and_gate a Version: 0-2018.06-SP5-5 ~ Date : Sat Jul 11 16:08:40 2026 Operating Conditions: tt1poSv2Sc Library: saed32rvt_tt1poSv25¢ Wire Load Model Mode: enclosed Startpoint: a (input port) Endpoint: y (output port) Path Group: (none) Path T
+
+=== 8.png ===
+= RealVNC Viewer - Oo x we Applications :| Sy Design Visio... | [] Formality -T.. | = Release Hig... RTL- File Ma... |i Terminal - (i Terminal-s... i Terminal-s... Design Vision - TopLevel.1 (and_gatel File Edit View Select Highlight List Hierarchy Design Attributes Schematic Timing Test Power AnalyzeRTL Window Help jee S| leaQc@Oll* *||SR REBAR |BE S| |fedct Wig ziiaa B 2 Q a Timing Path Group (none) ” Levels of Logic: 1.00 Critical Path Length: 0.07 Critical Path Slacl uninit Critical Path Clk
+
+=== 9.png ===
+- RealVNC Viewer _ o x we Applications :| Sy Design Visio... | [] Formality -T.. | = Release Hig... RTL- File Ma... |i Terminal - (i Terminal - Brerminal-s... a Design Vision - TopLevel.1 (and_gatel File Edit View Select Highlight List Hierarchy Design Attributes Schematic Timing Test Power AnalyzeRTL Window Help Jen) QQQ0@Q0))* * |S RE RBBAA | BB ws Nero Hie gziiaa B ’ OF : @ Net Area: 0.248251 & cell Area: 2.033152 a) Design Area: 2.281403 Design Rules Total Number of Nets 3 Nets With Violatio
+
+=== Screenshot 2026-07-06 155707.png ===
+de_shell> Link Linking design *johnson* Using the following designs and libraries johnson home/sv17/THTKVMOT_K23/Ca/Tuong_23207124_ASIC_Desgin/RTL/Digital_synopsys/Digital_synopsys/syn/johnson.db ‘saed32rvt_tt1p05v25e (Library) home/sv17/THTKVMOT_K23/Ca/Tuong_23207124_ASIC_Desgin/RTL/Digital_synopsys/Digital_Synopsys/Lib/db/saed32rvt_tt1posv25c.db
+
+=== Screenshot 2026-07-06 155822.png ===
+dc_shell> compile_ultra Warning: DesignWare synthetic Library dw_foundation.sldb is added to the synthetic_library in the current command. (UISN-40) Information: Performing power optimization. (PWR-850) Alib files are up-to-date. Infornatio Simplifying Design ‘johnson* Loaded alib file *./alib-52/saed32rvt_tt1posv25c.db.alib* Building model ‘DWOi_NAND2* Information: Ungrouping © of 1 hierarchies before Pass 1 (oPT-775) Information: State dependent leakage is now switched from on to off. Beginnin
+
+=== Screenshot 2026-07-06 155841.png ===
+Threshold voltage group cell usage: >> saed32cell_svt 10.00% Beginning Global optimizations Numerical Synthesis (Phase 1) Numerical Synthesis Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimization Global optimizatio
+
+=== Screenshot 2026-07-06 155901.png ===
+Threshold voltage group cell usage: >> saedazcell_svt 100.008 Beginning Delay Optimization TOTAL ELAPSED WORST NEG SETUP DESIGN LEAKAGE TIME AREA SLACK COST_-—RULE COST ENDPOINT POWER 58.2 0.00 0.0 24 8517622.0000 38.2 0.00 0.0 2.4 8517622.0000 58.2 0.00 0.0 2.4 8517622. 0000 38.2 0.00 0.0 2.4 8517622.0000 Threshold voltage group cell usage: >> saedazcell_svt 100.008 Beginning WLM Backend Optimization 0:00:02 58.2 0.00 0.0 2.4 8517622.0000 0:00:02 58.2 0.00 0.0 2.4 8492089.0000 0:00:02 58.2 0.00
+
+=== Screenshot 2026-07-06 155921.png ===
+Beginning Design Rule Fixing (max_capacitance) TOTAL ELAPSED WORST NEG SETUP DESIGN LEAKAGE TIME AREA SLACK COST _—RULE COST ENDPOINT POWER 58.2 0.00 0.0 2.4 8492089.0000 Global optimization (Phase 70) Global optimization (Phase 71) Global optimization (Phase 72) 0:00:02 58.5 0.00 0.0 0.0 8573284.0000 0:00:02 58.5 0.00 0.0 0.0 8573284.0000 Threshold voltage group cell >> saed32cell_svt 10.00% Beginning Leakage Power Optimization (max_leakage_power 0) TOTAL ELAPSED WORST NEG SETUP DESIGN LEAKAGE 
+
+=== Screenshot 2026-07-06 155935.png ===
+58.5 0.00 0.0 0.0 8573284 .0000 58.5 0.00 0.0 0.0 8573284.0000 58.5 0.00 0.0 0.0 8573284.0000 58.5 0.00 0.0 0.0 8573284.0000 58.5 0.00 0.0 0.0 8573284 .0000 58.5 0.00 0.0 0.0 8573284..0000 58.5 0.00 0.0 0.0 8573284.0000 58.5 0.00 0.0 0.0 8573284.0000 58.5 0.00 0.0 0.0 8573284.0000 58.5 0.00 0.0 0.0 8573284.0000 58.5 0.00 0.0 0.0 8573284.0000 58.5 0.00 0.0 0.0 8573284.0000 58.5 0.00 0.0 0.0 8573284.0000 TOTAL ELAPSED WORST NEG SETUP DESIGN LEAKAGE TIME AREA SLACK COST _—RULE COST ENDPOINT POWER °
+
+=== Screenshot 2026-07-06 160025.png ===
+dc_shell> report_timing -max_path 100 -delay_type max Information: Updating design information... (UID-85 Report : timing -path full -delay max -max_paths 100 Design : johnson Version: 0-2018.06-SP5-5 Date : Mon jul 6 15:57:02 2026 Operating Condition: Wire Load Model Modi ttlposv25e Library: saed32rvt_tt1posv2se enclosed Startpoint: out_reg[0] (rising edge-triggered flip-flop clocked by clk) Endpoint: out[0] (output port clocked by clk) Path Group: REGOUT Path Type: max Des/Clust/Port Wire Load
+
+=== Screenshot 2026-07-06 160043.png ===
+data required time 174.75 data required time 174.75 data arrival time -0.15 slack (MET) 174.60 Startpoint: out_reg[1] (rising edge-triggered flip-flop clocked by clk) Endpoint: out[1] (output port clocked by clk) Path Group: REGOUT Path Type: max Des/Clust/Port Wire Load Model Library johnson Forga saed32rvt_tt1posv25c Point Iner Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 out_regl1]/CLK (DFFARX1_RVT) 0.00 0.00 r out_regl1]/Q (DFFARX1_RVT) 0.12 0.12 r out[1] (out) 
+
+=== Screenshot 2026-07-06 160056.png ===
+‘Startpoint: out_regiz) (rising edge-triggered Tlip-Ttop clocked by Clk) Endpoint: out[2] (output port clocked by clk) Path Group: REGOUT Path Type: max Des/Clust/Port Wire Load Model Library johnson Forga saed32rvt_tt1posv2sc Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 out_reg{2]/CLK (DFFARX1_RVT) 0.00 0.00 r out_regl2]/Q (DFFARX1_RVT) 0.12 0.12 6 out[2] (out) 0.03 0.15 data arrival time 0.15 clock clk (rise edge) 250.00 250.00 clock network delay (idea
+
+=== Screenshot 2026-07-06 160128.png ===
+Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 out_reg(3]/CLK (DFFARX1_RVT) 0.00 0.00 r out_regI3]/Q (DFFARX1_RVT) 0.12 0.12 r out{3] (out) 0.03 0.15 7 data arrival time 0.15 clock clk (rise edge) 250.00 250.00 clock network delay (ideal) 0.00 250.00 clock uncertainty -0.25 249.75 output external delay -75.00 174.75 data required time 174.75 data required time 174.75 data arrival time -0.15 slack (MET) 174.60 Startpoint: out_regl4] (rising edge-triggered fl
+
+=== Screenshot 2026-07-06 160142.png ===
+data required time 249.72 data arrival time -0.14 slack (MET) Startpoint: out_reg[7] (rising edge-triggered flip-flop clocked by clk) Endpoint: out_regl0] (rising edge-triggered flip-flop clocked by clk) Path Group: clk Path Type: max Des/Clust/Port Wire Load Model Library johnson Forga saed32rvt_tt1posv25¢ Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 out_regl7]/CLK (DFFARXI_RVT) 0.00 0.00 r out_regl7]/QN (OFFARX1_RVT) 0.09 0.09 r out_reg[0]/D (OFFARX1_RV
+
+=== Screenshot 2026-07-06 160155.png ===
+Startpoint: out_regl4] (rising edge-triggered flip-flop clocked by clk) Endpoint: out_reg[5] (rising edge-triggered flip-flop clocked by clk) Path Group: clk Path Type: max Des/Clust/Port Wire Load Model Library johnson Forga saed32rvt_tt1posv25e Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 out_reg[4]/CLK (DFFARXI_RVT) 0.00 0.00 r out_regl4]/q (DFFARX1_RVT) 0.12 0.12 r out_reg{5]/D (DFFARX1_RVT) 0.02 o.14 r data arrival time 0.14 clock clk (rise edge) 250
+
+=== Screenshot 2026-07-06 160236.png ===
+Date : Mon Jul 6 15:59:30 2026 Library(s) Used: saed32rvt_ttip05v25c (File: /hone/sv17/THTKVMDT_K23/Ca/Tuong_23207124_ASIC_Desgin/RTL/Digital_synopsys/Digital_Synopsys/Lib/db/saed32rvt_tt1p05v25c.db) Nunber of 10 Number of 12 Nunber of 9 Number of combinational cells: 1 Number of sequential cells: 8 Number of macros/black boxes: 0 Number of buf/inv: 1 Number of references: 2 Combinational area: 1.524864 Buf/Inv area: 1.524864 Noncombinational area 56.928257 Macro/Black Box are: 0.000000 Net Inte
+
+=== Screenshot 2026-07-06 160249.png ===
+1 de_shell> report_area -hierarchy Report : area Design : johnson Version: 0-2018.06-SP5-5 Date: Mon Jul 6 15:59:30 2026 Library(s) Used: saed32rvt_tt1p05v25c (File: /home/sv17/THTKVMDT_K23/Ca/Tuong_23207124_ASIC_Desgin/RTL/Digital_synopsys/Digital_Synopsys/Lib/db/saed32rvt_tt1p05v25c.db) Number of ports: 10 Number of nets: 12 Number of cells: 9 Number of combinational cells: 1 Number of sequential cells: 8 Number of macros/black boxes: ° Number of buf/inv: 1 Number of references: 2 Combinationa
+
+=== Screenshot 2026-07-06 160312.png ===
+Report : gor Design : johnson Version: 0-2018.06-SP5-5 Date : Mon Jul 6 16:00:13 2026 Timing Path Group *REGOUT' Levels of Logic: 0.00 Critical Path Length: 6.15 Critical path Slack: 174.60 Critical Path Clk Period: 250.00 Total Negative Slack: 0.00 No. of Violating Paths 0.00 Worst Hold Violation: 0.00 Total Hold Violation: 0.00 No. of Hold Violations: 0.00 Timing Path Group ‘*clk* Levels of Logic: 0.00 Critical Path Length: 14 Critical Path Slack: 249.58 Critical Path Clk Period: 250.00 Total 
+
+=== Screenshot 2026-07-06 160321.png ===
+@.000000 3.448122 Macro/Black Box Are: Net Area cell Area: 98.453121 Design Area: 61.901243 Design Rules Total Number of Nets: 1 Nets With Violation: Max Trans Violations: Max Cap Violations Hostname: capacitor Compile CPU Statistics Resource Sharing: 0.00 Logic optinization 0.02 Mapping Optimization: 0.23 Overall Compile Time: 2.82 Overall Compile Wall Clock Time: 3.13 Design WNS: 0.00 TNS: 0.00 Number of Violating Paths: 0 Design (Hold) WNS: 0.01 TNS: 0.01 Number of Violating Paths: 1
+
+=== Screenshot 2026-07-11 135529.png ===
+wn Applications ematic Edit tm p53 tm fm.ne fm.ne fm.ne fm.ne fm.ne fm.ne fm.ne fm.ne yn - File Manager 1 - r:/WORK/bai2 tmnt Tim NO Loads ‘im Ni Leads Tm NL eads ——4 Tm NS Leads —4 Fm Na ood 2 [Sead tm NA [ead lim ps3 61 0 drivers ot a vers ot "Ae cg» sLosiea Logict + ITS os ya fn Ney imu 6] vers Na) tmnt ‘fm WIS) 5] divers fm WIZ) — fm NIT A] vers NO) o— | inna 3.divers |_fn nea fm NE 2 divers, fm Ne fm Na 1Livers [fn neo o- drivers o—— kk cs
+
+=== Screenshot 2026-07-11 135849.png ===
+we Applications DVE - TopLevel.1 - [Dat. DVE - TopLevel.2 - [Wa. «TL - File Manager 13:55 | sv El Bile Edit | je DVE - TopLevel.2 - [Wave.1] /home/sv1/.../Formal/Post_syn/simv 5 File Edit View Simulator Signal Scope Trace Window Help -la 19631 |xtps > ||| R2| a DB te Sy Ey Sy Me Hie ~ ||| FB any zage Eee aaa Qae@ it + sim Hierarchy || Gsveval Di sverval Gece on Gass 1 clock UUU UYU UU UU UU Gorn | Oso] Osxenx| Gsueu2 Osxeu3 Gsxrns Osxeu Oren ry Grew Rv Drmarinco, Name Value =|Group1 O clear New 
+
+=== Screenshot 2026-07-11 135901.png ===
+13:56 sv we Applications DVE - TopLevel.1 - [Dat. DVE - TopLevel.2 - [Wa. RTL- File Manager (Bi Terminal - svi@capacit. L E Bile Edit | de. DVE - TopLevel.2 - [Wave.1] /home/sv1/.../Formal/Post_syn/simv 8 Bile Edit View Simulator Signal Scope Trace Window Help 19631 |xtps > ||| R2| a DB te Sy Ey Sy Me Hie ~ ||| FB any zage Eee aaa Qae@ it 4 [hd az | Bless sim Hierarchy i sorenal SE sorenal Gisorenx] Bspeem| | or sare[0:71 sho Disversse| | ~0 clock sto Bsorssy clear so Gsorma Gsom | Gsuriu Gsuruz
+
+=== Screenshot 2026-07-11 135938.png ===
+- a we Applications [DVE - TopLevel.1 - [Da [DVE - TopLevel.2 - [Wa... | RTL- File Manager Gi Formality - TopLevelMa... | [al Terminal - sv11@capac...| [Bl] Terminal - sv11@capac = 13:58 [EN |) svi2 B Formality - TopLevelMain.1 a Gi file Edit View Designs Run ECO Window Help ® ©®o 1/@\s@8 Reference |r:/WORK/counter Implementation [is WORK/counter 0. Guid 2. imp 3. Setup 4. Match 5. Verify 6. Debug 1. Read Design Files | 2. Read DB Libraries | 3. Set Top Design 1. Choose a library. 2. Choose a de
+
+=== Screenshot 2026-07-11 135946.png ===
+- a 13:58 EN | vil we Applications [DVE - TopLevel.1 - [Da [DVE - TopLevel.2 - [Wa... | RTL- File Manager Gi Formality - TopLevelMa... | [al Terminal - sv11@capac...| [Bl] Terminal - sv11@capac = i B Formality - TopLevelMain.1 a Gi file Edit View Designs Run ECO Window Help ® ©®o 1/@\s@8 Reference (r:/WORK/counter Verification Succeeded Implementation /i/WORK/counter 0. Guid 72. Impl 3. Setup 4. Match 5. Verify 6, Debug i) Réad Design Files | 2. Read DB Libraries | 3) Set Top Design Preferences 
+
+=== Screenshot 2026-07-11 135957.png ===
+we Applications :| [=| [DVE- TopLevel.1-[Da... | [OVE TopLevel.2 - [Wa... | ij RTL- File Manager TB Formality - TopLevelMa, Terminal sv11@capac Terminal - sv1@capac. - ag *x TF | 150 [EN [| 1 GB Elle Edit View Designs Run ECO Window Help & ©®o }/@ =@8 Reference r:/WORK/counter Implementation |i:/(WORK/counter 90.6) S21. Ref. 2. Impl. 1. Read Design Files | 2. Read DB Libraries | 3. Set Top Design Verilog SystemVerilog VHDL DB | DDC Preferences: Files Design Library: WoRK ’ Verilog Version Defaul
+
+=== Screenshot 2026-07-11 140017.png ===
+- ag *x ‘we Applications; [DVE- TopLevel.t- [Da... | ™ [DVE- TopLevel.2 - [Wa... | fi RTL- File Manager [B Formality - TopLevelMa... |) Terminal - svi1@capac... | [a] Terminal - sv11@capac. ize {EN ||.| sviz B Formality - TopLevelMain.1 Ca Gi File Edit View Designs Run ECO Window Help & Be oR} a 60 #8 Reference r:/WORK/counter [Enter filter expr ve # of constants: 2 T= X | 0 Compare points matched by signature analysis © Compare points matched by topology 2 Matched primary inputs, black-box outp
+
+=== Screenshot 2026-07-11 150355.png ===
+EB 192.168.0.1:5925 (capacitor:25 (sv11)) - RealVNC Viewer we Applications. :| By Design Vision - TopLev... | [1 Formality - TopLevelMa... | — [Release Highlights] _| fj output - File Manager [Bi [Terminal - sv11@capa... Terminal - sv11@capac... _ a Te) Eee x | fa Information =| 5 Matching completed. There are 26 matched and 0 unmatched compare points. Set ‘i:/WORK/counter Sbit/r' to constant 0 1 Formality (setup)> match Reference design is 'r:/WORK/counter_ abit’ Implementation design is ‘i:/WO
+
+=== Screenshot 2026-07-11 150407.png ===
+EB 192.168.0.1:5925 (capacitor:25 (sv11)) - RealVNC Viewer we Applications: By Design Vision - TopLev... | [ Formality - TopLevelMa... | — [Release Highlights] i output - File Manager Bi [Terminal - sv11@capa. x | _ a EE 2 fev | on Terminal - sv11@capac... Formality - TopLevelMain.1. Keecieletnbs File Edit View Designs Run ECO Window Help ®& Bax Ri @@O G Ql Al 6 Olse Reference (r:/WORK/counter_8bit Matching Completed Implementation |i/WORK/counter_abit 0. Guid. 1. Ref 2. Impl. 4. Match 5. Verify
+
+=== Screenshot 2026-07-11 150410.png ===
+© Log | Hatory) 5 & |Formality (matchi> | Ready Rea EB 192.168.0.1:5 )) - RealVNC Viewer _ a x Jee Applications: By Design Vision - TopLev... | [| Formality - TopLevelMa... | — [Release Highlights] {@y output-File Manager _ lll [Terminal - sv11@capa... | [Bl] Terminal - sv11@capac... D0 a 2 ew) a Formality - TopLevelMain.1. | ax! GB Elle Edit View Designs Run ECO Window Help & asx RH O® G A) 6e\s@8 Reference [r:/WORK/counter_sbit Matching Completed Implementation |i:/WORK/counter_abit 0.6 1 Ref.
+
+=== Screenshot 2026-07-11 150415.png ===
+EB 192.168.0.1:5925 (capacitor:25 (sv11)) - RealVNC Viewer = o x 3p Applications: By Design Vision - TopLev... Formality - TopLevelMa... | — [Release Highlights) {@y output-File Manager _ lll [Terminal - sv11@capa... | [Bl] Terminal - sv11@capac... D0 a 2 ew) ae B Formality -TopLevelPtain.1. Gaon GB Elle Edit View Designs Run ECO Window Help & asx Ri @@O G A) 6e\s@8 Reference [r:/WORK/counter_sbit h 4 Matching Complete Implementation |i:/WORK/counter_Bbit '9 Comp! 0. Guid. 1 Ref. 92. Impl. 3. Se
+
+=== Screenshot 2026-07-11 150420.png ===
+EB 192.168.0.1:5925 (capacitor:25 (sv11)) - RealVNC Viewer = o x Jee Applications: By Design Vision - TopLev... | [| Formality - TopLevelMa... | — [Release Highlights] {@y output-File Manager _ lll [Terminal - sv11@capa... | [Bl] Terminal - sv11@capac... D0 a 2 ew) a Formality - TopLevelMain.1. eocrelelh GB Elle Edit View Designs Run ECO Window Help & asx Ri @@O G A) 6e\s@8 Reference (r:/WORK/counter_8bit h 4 Matching Complete Implementation |i/WORK/counter_abit 9 comp! 0. Guid. AL Ref. 2. Impl.
+
+=== Screenshot 2026-07-11 150423.png ===
+EB 192.168.0.1:5925 (capacitor:25 (sv11)) - RealVNC Viewer x | _ a 2 fev) on Yee Applications |: By Design Vision - Toplev... | [| Formality -TopLevelMa... | [Release Highlights] || fj output- File Manager __| al [Terminal - sv11@capa. Terminal - sv11@capac... Formality - TopLevelMain.1. Giana) File Edit View Designs Run ECO Window Help ®& Bax RH/|OOO|SRQl\ Al 6Olea Reference |r:/WORK/counter_8bit | atcing completed Matching Completed Implementation |i:/WORK/counter_8bit ). Guid. 1. Ref. A2. Imp
+
+=== Screenshot 2026-07-11 150434.png ===
+EB 192.168.0.1:5925 (capacitor:25 (sv11)) - RealVNC Viewer BE Applications. ; | Design Vision - TopLev.. Formality - TopLevelMa... | [Release Highlights] output - File Manager @ [Terminal - sv11@capa. Terminal - sv11@capac... a s - vi o x EN (jy) 5 GB Elle Edit View Designs Run ECO Window Help & Ri @@O G A) 6e\s@8 Formality - TopLevelMain.1 Reference |r:/WORK/counter_8bit Implementation |i:/(WORK/counter_abit 0.6 1. Ref. A2. Impl. 1. Read Design Files | 2. Read DB Libraries | 3. Set Top Design F
+
+=== Screenshot 2026-07-11 150438.png ===
+EB 192.168.0.1:5 )) - RealVNC Viewer _ a x 3p Applications: By Design Vision - TopLev... Formality - TopLevelMa... | — [Release Highlights) {@y output-File Manager _ lll [Terminal - sv11@capa... | [Bl] Terminal - sv11@capac... DG 22 ew) a Formality - TopLevelMain.1. | ax! GB Elle Edit View Designs Run ECO Window Help & asx Ri @@O G A) 6e\s@8 Reference [r:/WORK/counter_sbit Matching Completed Implementation |i:/WORK/counter_abit 0. Gt ‘A 1. Ref. 2. Impl. 3. Setup 4. Match 5. Verify 6. Debug 1. Re
+
+=== Screenshot 2026-07-11 150505.png ===
+EB 192.168.0.1:5925 (capacitor:25 (sv11)) - RealVNC Viewer we Applications: By Design Vision - TopLev... | [| Formality - TopLevelMa... © [Release Highlights) output- File Manager _| gil [Terminal - sv11@capa.. Terminal - sv11@capac... _ a Es =: [ev x GB Elle Edit View Designs Run ECO Window Help & Formality - TopLevelMain.1 Bax Ri @@O G A) 6e\s@8 Reference (r:/WORK/counter_8bit } Verification Succeeded Implementation |i:/WORK/counter_ bit | 0. Guid. V1. Ref 2. Impl. 3. Setup 4, Mat verify 6. De
+
+=== Screenshot 2026-07-11 152943.png ===
+ighlights] y a 2... | [| Terminal - sv al - sv11@capacitor:~/Desktop/THTKVMDT_K23/CLC3/CA2/MailyKhaiTrieu_23207136_ASIC_Design/Digital Synopsys/Sim/Post_Syn recompiling module RSDFFNSRARX1_RVT recompiling module RSDFFNSRARX2_RVT recompiling module RSDFFNSRASRX1_RVT recompiling module RSDFFNSRASRX2_RVT recompiling module RSDFFNSRASRNX1_RVT recompiling module RSDFFNSRASRNX2_RVT recompiling module RSDFFNSRASRQX1_RVT recompiling module RSDFFNSRASRQX2_RVT recompiling module RSDFFSRARX1_RVT recompilin
+
+=== Screenshot 2026-07-11 153222.png ===
+2 Design Vision DVE - TopLeve. DVE - TopLeve. Formality Release Highl.. fj Pos File FTerminal - sv... (Bj Terminal - sv1... | Bj Terminal - svi... | Terminal - sv1 15:30 svi DVE - TopLevel.2 - [Wave.1] Jhome/sv1V.../Sim/Post_Syn/simv El Bile E 59 Eile Edit View Simulator Signal Scope Trace Window Help alxi el Value so shoo ~state[7] 0 ~ ate(6] ° ~ tae(S] 0 ~ atef] 0 ~ state] 1 ~ state] 0 ~ ae(0] 1 Oclk so New Group Sfinil Sfinis simul jpsooao jpooaoo 250000 i ppoooao a a 7
+
+=== Screenshot 2026-07-11 153851.png ===
+EB 192.168.0.1:5925 (capacitor:25 (sv11)) - RealVNC Viewer J Applications 245000 ns | elear=0 clock 245000 ns | clear=0 clock =1-> seat 258000 ns | clear=0 clock 286000 ns | clear=0 clock =1 -> sat 275000 ns | elear=0 clock 275000 ns | clear=0 clock =1 -> state= 280000 ns | clear=0 clock 285000 ne | clear=0 clock 285000 ns | clear=0 clock =1 -> stat 305000 ne | clear=0 clock 305000 ns | clear=0 clock =1-> state= 310000 ns | clear=0 clock 318000 ns | clear=0 clock 320000 ns | clear=0 clock =0 -> 
+
+=== Screenshot 2026-07-11 155051.png ===
+Schematic Edit View ECO Window Help a: {>— et a oe thhde is) a | Loa slaty | stato . : nets} | —} — csc I = KE = .
+
+=== Screenshot 2026-07-11 164948.png ===
+a rer... | ive rer... | te Terminal - sv11@capacitor: /Desktop/THTKVMDT_K23/CLC3/CA2/MailyKhaiTrieu_23207136_ASIC_Design/Digital Synopsys Module and_gate ( input wire a, input wire b, output wire y); assign y = a & b; endmodule
+
+=== area_johnson.png ===
+dc_shell> report_area -hierarchy Report : area Design : johnson Version: 0-2018.06-SP5-5 Date : Mon Jul 6 10:38:22 2026 Information: Updating design information... (UTD-85) Library(s) Used: saed32rvt_tt1p05v25e (File: /home/sv20/THTKVMDT_K23/CLC1/CA2/MacQuangkhai_23207130_LeKhanhLinh_23207132_CLC1_Ca2/TH_TKVM_CLC/Digital_synopsys/Lib/db/saed32rvt_tt1posv25c.db) Number of port: 10 Number of nets 2 Number of cells: 9 Number of combinational cell: 1 Number of sequential cells: 8 Number of macros/bl
+
+=== counter.png ===
+dc_shell> Link Linking design ‘counter’ Using the following designs and libraries counter home/sv17/THTKVMOT_K23/Ca/Tuong_23207124_ASIC_Desgin/RTL/Digital_synopsys/syn/counter.db saed32rvt_tt1p05v25e (Library) /home/sv17/THTKVMOT_K23/Ca/Tuong_23207124_ASIC_Desgin/RTL/Digital_synopsys/Lib/db/saed32rvt_tt1posv25c.db
+
+=== counter1.png ===
+dc_shell> compile_ultra Warning: DesignWare synthetic Library dw_foundation.sldb is added to the synthetic_library in the current command. (UISN-40) Information: Performing power optimization. Alib files are up-to-date. Information: Sequential output inversion is Simplifying Design ‘counter* (pwR-850) enabled. SvF file must be used for formal verification. (opT-1208) Loaded alib file './alib-52/saed32rvt_tt1posv25c.db.alib* Building model ‘DWOi_NAND2* Informatio Information: State dependent leak
+
+=== counter10.png ===
+de_shell> report_area -hierarchy Report : area Design : counter Version: 0-2018.06-SPS-5 Date : Mon Jul 6 16:30:46 2026 Library(s) Used: saed32rvt_tt1p05v25c (File: /hone/sv17/THTKVMDT_K23/Ca/Tuong_23207124_ASIC_Desgin/RTL/Digital_synopsys/Lib/db/saed32rvt_tt1p05v25¢.db) Number of ports: 10 Number of nets: 31 Number of cells: 28 Number of combinational cells: 20 Number of sequential cells: 8 Number of macros/black boxes: ° Number of buf/inv: 7 Number of references: 6 Combinational area: 36.85088
+
+=== counter11.png ===
+dc_shell> report_qor Report : gor Design : counter Version: 0-2018.06-SP5-5 Date : Mon Jul 6 16:31:53 2026 Timing Path Group (none) Levels of Logic: 0.00 Critical Path Lengt! o.14 Critical Path Slack: uninit Critical Path Clk Period: nya Total Negative Slack: 0.00 No. of Violating Paths 0.00 Worst Hold Violation: 0.00 Total Hold Violatio 0.00 No. of Hold Violations: 0.00 cell Count Hierarchical Cell Coun Hierarchical Port Count: ° Leaf Cell count: 28 Buf/Inv Cell Count: 7 Buf Cell Count: ° Inv C
+
+=== counter12.png ===
+‘Macro/Black Box Area: 0. G00G00 Net Area: 7.006667 cell Area: 93.779137 Design Area: 100. 785804 Design Rules Total Number of Nets 1 Nets With Violations: ° Max Trans Violations: ° Max Cap Violations: ° Hostname: capacitor Compile CPU Statistics Resource Sharint 0.00 Logic Optimization: 0.02 Mapping Optimization: 0.24 Overall Compile Time: 2.85 3.17 Overall Compile Wall Clock Time: Design WNS: 0.00 TNS: 0.00 Number of Violating Paths: 0 Design (Hold) WNS: 0.00 TNS: 0.00 Number of Violating Path
+
+=== counter2.png ===
+Threshold voltage group cell usage: >> saed32cell_svt 10.00% Beginning Global optimizations Numerical Synthesis (Phase 1) Numerical Synthesis (Phase 2) Global optimization (Phase 43) Global optimization (Phase 44) Global optimization (Phase 45) Global Optimization (Phase 46) Global optimization (Phase 47) Global optimization (Phase 48) Global optimization (Phase 49) Global optimization (Phase 50) Global optimization (Phase 51) Global optimization (Phase 52) Global optimization (Phase 53) Global 
+
+=== counter3.png ===
+Threshold voltage group cell usage: >> saedazcell_svt 100.008 Beginning Isolate Ports Threshold voltage group cell usage: >> saed32cell_svt 10.00% Beginning Delay Optimization ELAPSED TIME AREA 93. 93. 93. 93. TOTAL WORST NEG — SETU SLACK ° ° ° ° Threshold voltage group cell >> saedazcell_svt 100.008 cost 00 00 00 00 usage: Beginning WLM Backend Optimization 93. 93.5 93. 93. 93. 93. 0:00:01 93. 93. 0:00:01 93. 93. 0:00:01 93. 93. 5 L p 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+=== counter4.png ===
+Global Optimization Global optimization Global optimization 0:00:01 93.8 0:00:01 93.8 (Phase (Phase (Phase e. 0. Threshold voltage group cell >> saed32cell_svt 100.00% Beginning Leakage Power Optimization ELAPSED TIME AREA 72) 73) 74) 68 0.0 0.0 00 0.0 0.0 usage: TOTAL WORST NEG SETUP DESIGN SLACK cosT RULE CosT (max_leakage_power 0) 10576772 10576772 LEAKAGE POWER 101 93.8 Optimization Optimization Optimization Optimization Optimization Optimization Optimization Optimization Optimization Optimi
+
+=== counter5.png ===
+93.8 0.00 0.0 0.0 10576772.0000 93.8 0.00 0.0 0.0 10576772.0000 93.8 0.00 0.0 0.0 110576772.0000 93.8 0.00 0.0 0.0 10576772.0000 93.8 0.00 0.0 0.0 10576772.0000 93.8 0.00 0.0 0.0 10576772.0000 93.8 0.00 0.0 0.0 10576772.0000 93.8 0.00 0.0 0.0 10576772.0000 93.8 0.00 0.0 0.0 10576772.0000 93.8 0.00 0.0 0.0 10576772 .0000 93.8 0.00 0.0 0.0 10576772.0000 93.8 0.00 0.0 0.0 19576772.0000 TOTAL ELAPSED WORST NEG SETUP DESIGN LEAKAGE TIME AREA SLACK COST_-—RULE COST ENDPOINT POWER 0:00:01 93.8 0.00 0.0
+
+=== counter6.png ===
+-Gelay max -max_paths 160 Design : counter Version: 0-2018.06-SP5-5 Date : Mon jul 6 16:29:18 2026 operating Conditions: tt1poSv25c Library: saed32rvt_tt1posv25c Wire Load Model Mode: enclosed Startpoint: state_reg[0] (rising edge-triggered flip-flop) Endpoint: state[o] (output port) Path Group: (none) Path Type: max Des/Clust/Port Wire Load Model Library counter Forga saed32rvt_tt1posv25¢ Point Incr Path state_regl0]/CLK (DFFARX1_RVT) 6.00 0.00 r state_regl0]/Q (DFFARX1_RVT) o.u2 our statelo] (
+
+=== counter7.png ===
+Gounker FORA SACCIEEVE_ EE APY ERE Point Incr Path state_regl6]/CLK (DFFARX1_RVT) 0.00 r state_reg(6]/Q (DFFARXI_RVT) 0.11 our state[6] (out) 0.03 0.14 r data arrival time o.14 (Path is unconstrained) Startpoint: state_reg[5] (rising edge-triggered flip-flop) Endpoint: state[S] (output port) Path Group: (none) Path Type: max Des/Clust/Port Wire Load Model Library counter ForQa saed32rvt_tt1posv25¢ Point Incr Path state_reg(5]/CLK (DFFARX1_RVT) 0.00 0.00 r state_regl5]/Q (OFFARXI_RVT) o.11 our st
+
+=== counter8.png ===
+Path Group: (none) Path Type: max Des/Clust/Port Wire Load Model Library counter ForQa saed32rvt_tt1posv25¢ Point Incr Path state_reg(1]/CLK (DFFARX1_RVT) 0.00 0.00 r state_regl1]/Q (DFFARXI_RVT) ou our state[1] (out) 0.03 o.14 r data arrival time o.14 (Path is unconstrained) Startpoint: state_regi7] (rising edge-triggered flip-flop) Endpoint: state[7] (output port) Path Group: (none) Path Type: max Des/Clust/Port Wire Load Model Library counter Forga saed32rvt_ttiposv2sc Point Incr Path state_r
+
+=== counter9.png ===
+Date : Mon Jul 6 16:30:46 2026 Library(s) Used: saed32rvt_tt1p05v25e (File: /hone/sv17/THTKVMDT_K23/Ca/Tuong_23207124_ASIC_Desgin/RTL/Digital_synopsys/Lib/db/saed32rvt_tt1po5v25¢.db) Nunber of ports: 10 Number of nets: 31 Number of cells: 28 Number of combinational cells: 20 Number of sequential cells: 8 Number of macros/black boxes: 0 Number of buf/inv: 7 Number of references: 6 Combinational area: 36.850880 Buf/Inv area: 9.149184 Noncombinational area: 56.928257 Macro/Black Box area: 0.000000 
+
+=== link_comb.png ===
+de_shell> Link Linking design ‘comb* Using the following designs and libraries: comb ‘home/sv20/THTKVMDT_K23/CLC1/CA2/MacQuangkhai_23207130_LeKhanhLinh_23207132_CLC1_Ca2/TH_TKVM_CLC/Digital_Synopsys/syn/comb.db saed32rvt_ttipoSv25e (Library) /home/sv20/THTKVMOT_k23/CLC1/CA2/MacQuangkhai_23207130_LekhanhLinh_23207132_CLC1_Ca2/TH_TKVM_CLC/Digital_Synopsys/Lib/db/saed32rvt_tt1poSv25c.db 1 de_shell> check_design
+
+=== link_johnson.png ===
+de_shell> Link Linking design ‘johnson* Using the following designs and libraries: 7home/sv20/THTKVMDT_K23/CLC1/CA2/MacQuangkhai_23207130_LeKhanhLinh_23207132_CLC1_Ca2/TH_TKVM_CLC/Digital_Synopsys/syn/johnson.db saed32rvt_ttipoSv25e (Library) /home/sv20/THTKVMOT_k23/CLC1/CA2/MacQuangkhai_23207130_LekhanhLinh_23207132_CLC1_Ca2/TH_TKVM_CLC/Digital_Synopsys/Lib/db/saed32rvt_tt1posv25c.db johnson
+
+=== mach.png ===
+Bi termi Fm...) Termi... | [) Termi DesignSchematic.1 - r:WORK/counter_8bit thematic Edit nao suse sum sums sums sum sum sum uma
+
+=== qor_johnson.png ===
+Hostname: capacitor Conpile CPU Statistics Resource Sharing: Logic Optimization: 0.03 Mapping Optimization: 0.22 Overall Compile Time: 3.79 Overall Compile Wall Clock Tim 4.13 Design WNS: 0.00 TNS: 0.00 Number of Violating Paths: 0 Design (Hold) WNS: 0.01 TNS: 0.01 Number of Violating Paths: 1
+
+=== timing_johnson.png ===
+Startpoint: out_reg[S] (rising edge-triggered flip-flop clocked by clk) Endpoint: out_reg[6] (rising edge-triggered flip-flop clocked by clk) Path Group: clk Path Type: min Des/Clust/Port Wire Load Model Library johnson Forga saed32rvt_ttiposv2sc Point Incr Path clock clk (rise edge) 0.00 0.00 clock network delay (ideal) 0.00 0.00 out_reg{S]/CLK (DFFARXI_RVT) 0.00 0.00 r out_reg{5]/Q (DFFARX1_RVT) 0.12 0.12 f out_reg{6]/0 (DFFARX1_RVT) 0.01 0.13 F data arrival time 0.13 clock clk (rise edge) 0.0
+
+=== timing_johnson_max.png ===
+dc_shell> report_timing -max_paths 100 -delay_type max Report : timing -path full -delay max -max_paths 100 Design : johnson Version: 0-2018.06-SP5-5 Date : Mon Jul 6 10:39:42 2026 Operating Conditions: tt1p0Sv25c Library: saed32rvt_tt1posv25¢ Wire Load Model Mode: enclosed Startpoint: out_regl0] (rising edge-triggered flip-flop clocked by clk) Endpoint: out(0] (output port clocked by clk) Path Group: REGOUT Path Type: max Des/Clust/Port Wire Load Model Library johnson Forga saed32rvt_tt1posv25¢
+

@@ -1,0 +1,14 @@
+BẰNG CHỨNG ĐIỆN TỬ: QUÁ TRÌNH LÀM LAB TUẦN 2 (Trích xuất từ Antigravity DB)
+
+1. Tự động trích xuất dữ liệu ảnh và thiết kế (Observation ID: 16)
+Thời gian: 2026-06-18 14:51:27
+Tiêu đề: Student assets and design rules extraction
+Nội dung Log gốc từ DB: "Extracted PDK 90nm design rules from PDF, mapped 36 screenshots for student LeNgocTuong in Week 2, and identified that Week 3 has 0 images."
+
+2. Tự động căn chỉnh và xuất file Báo cáo Tuần 2 (Observation ID: 17)
+Thời gian: 2026-06-18 23:19:36
+Tiêu đề: Fix layout page break and headers
+Nội dung Log gốc từ DB: "Page broke after report-header and removed duplicate Bao cao header and long horizontal lines from Week 2 and Week 3 reports."
+File bị tác động: compile_reports.py (Script sinh báo cáo tự động do AI viết và thực thi).
+
+-> CÁC QUÁ TRÌNH TRÊN ĐỀU ĐƯỢC TỰ ĐỘNG XÓA FILE NHÁP VÀ SOURCE TẠM SAU KHI CHẠY PASS TEST THEO LUẬT DEFINITION OF DONE CỦA HỆ THỐNG.
